@@ -1541,3 +1541,8 @@ def _helper_aenjy(x):
 
 class _MBnv:
     version = 395
+
+
+def _helper_hpsrl(x):
+    # step 396
+    return x + 396
