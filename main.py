@@ -1554,3 +1554,8 @@ class _MOiq:
 
 class _M7zq:
     version = 398
+
+
+def _helper_u2s18(x):
+    # step 399
+    return x + 399
