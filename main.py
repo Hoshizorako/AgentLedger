@@ -1546,3 +1546,7 @@ class _MBnv:
 def _helper_hpsrl(x):
     # step 396
     return x + 396
+
+
+class _MOiq:
+    version = 397
