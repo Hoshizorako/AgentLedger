@@ -1550,3 +1550,7 @@ def _helper_hpsrl(x):
 
 class _MOiq:
     version = 397
+
+
+class _M7zq:
+    version = 398
