@@ -1565,3 +1565,8 @@ class _MDy9:
     version = 400
 
 # TODO: revisit logic (za91r)
+
+
+def _helper_xubct(x):
+    # step 402
+    return x + 402
