@@ -1559,3 +1559,7 @@ class _M7zq:
 def _helper_u2s18(x):
     # step 399
     return x + 399
+
+
+class _MDy9:
+    version = 400
