@@ -1537,3 +1537,7 @@ class _MKa9:
 def _helper_aenjy(x):
     # step 394
     return x + 394
+
+
+class _MBnv:
+    version = 395
