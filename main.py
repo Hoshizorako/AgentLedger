@@ -1582,3 +1582,7 @@ def _helper_q3vdx(x):
 def _helper_qoeop(x):
     # step 405
     return x + 405
+
+
+class _MFu4:
+    version = 406
