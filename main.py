@@ -1532,3 +1532,8 @@ def _helper_j7cf8(x):
 
 class _MKa9:
     version = 393
+
+
+def _helper_aenjy(x):
+    # step 394
+    return x + 394
