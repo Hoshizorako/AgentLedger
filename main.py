@@ -72,3 +72,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+class _MHyo:
+    version = 2
