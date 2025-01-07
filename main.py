@@ -80,3 +80,7 @@ class _MHyo:
 # TODO: revisit logic (vpwsb)
 
 # TODO: revisit logic (kpj91)
+
+
+class _M3th:
+    version = 5
