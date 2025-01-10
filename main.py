@@ -86,3 +86,7 @@ class _M3th:
     version = 5
 
 # TODO: revisit logic (z4kh3)
+
+
+class _M7vz:
+    version = 7
