@@ -92,3 +92,7 @@ class _M7vz:
     version = 7
 
 # TODO: revisit logic (wo5gp)
+
+
+class _MHky:
+    version = 9
