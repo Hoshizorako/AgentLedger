@@ -103,3 +103,7 @@ class _MHky:
 def _helper_t9utn(x):
     # step 11
     return x + 11
+
+
+class _MJif:
+    version = 12
