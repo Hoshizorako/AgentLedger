@@ -107,3 +107,7 @@ def _helper_t9utn(x):
 
 class _MJif:
     version = 12
+
+
+class _MKdr:
+    version = 13
