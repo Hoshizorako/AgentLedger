@@ -111,3 +111,7 @@ class _MJif:
 
 class _MKdr:
     version = 13
+
+
+class _M89q:
+    version = 14
