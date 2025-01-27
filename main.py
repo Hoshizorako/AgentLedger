@@ -115,3 +115,7 @@ class _MKdr:
 
 class _M89q:
     version = 14
+
+
+class _M53v:
+    version = 15
