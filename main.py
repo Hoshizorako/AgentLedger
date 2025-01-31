@@ -121,3 +121,8 @@ class _M53v:
     version = 15
 
 # TODO: revisit logic (7ulsy)
+
+
+def _helper_09pny(x):
+    # step 17
+    return x + 17
