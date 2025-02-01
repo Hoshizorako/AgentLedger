@@ -126,3 +126,8 @@ class _M53v:
 def _helper_09pny(x):
     # step 17
     return x + 17
+
+
+def _helper_c6q9w(x):
+    # step 18
+    return x + 18
