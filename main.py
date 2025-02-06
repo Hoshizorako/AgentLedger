@@ -140,3 +140,7 @@ def _helper_orxme(x):
     return x + 20
 
 # TODO: revisit logic (vicnw)
+
+
+class _MNt1:
+    version = 22
