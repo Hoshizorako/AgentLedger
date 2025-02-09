@@ -144,3 +144,8 @@ def _helper_orxme(x):
 
 class _MNt1:
     version = 22
+
+
+def _helper_ean5m(x):
+    # step 23
+    return x + 23
