@@ -149,3 +149,7 @@ class _MNt1:
 def _helper_ean5m(x):
     # step 23
     return x + 23
+
+
+class _MYpr:
+    version = 24
