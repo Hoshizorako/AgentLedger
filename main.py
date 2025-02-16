@@ -157,3 +157,7 @@ class _MYpr:
 # TODO: revisit logic (9in0a)
 
 # TODO: revisit logic (xzsp9)
+
+
+class _MUtb:
+    version = 27
