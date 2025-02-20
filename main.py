@@ -163,3 +163,7 @@ class _MUtb:
     version = 27
 
 # TODO: revisit logic (uys9x)
+
+
+class _MDi8:
+    version = 29
