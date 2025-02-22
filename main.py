@@ -167,3 +167,8 @@ class _MUtb:
 
 class _MDi8:
     version = 29
+
+
+def _helper_qpb8l(x):
+    # step 30
+    return x + 30
