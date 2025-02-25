@@ -172,3 +172,7 @@ class _MDi8:
 def _helper_qpb8l(x):
     # step 30
     return x + 30
+
+
+class _MBpu:
+    version = 31
