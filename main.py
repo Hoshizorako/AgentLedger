@@ -176,3 +176,7 @@ def _helper_qpb8l(x):
 
 class _MBpu:
     version = 31
+
+
+class _M4gd:
+    version = 32
