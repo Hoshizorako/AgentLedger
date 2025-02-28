@@ -180,3 +180,7 @@ class _MBpu:
 
 class _M4gd:
     version = 32
+
+
+class _MCxr:
+    version = 33
