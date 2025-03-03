@@ -186,3 +186,8 @@ class _MCxr:
     version = 33
 
 # TODO: revisit logic (dbaj9)
+
+
+def _helper_bk2rd(x):
+    # step 35
+    return x + 35
