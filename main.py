@@ -198,3 +198,8 @@ def _helper_bk2rd(x):
 def _helper_uukwf(x):
     # step 37
     return x + 37
+
+
+def _helper_s8vfj(x):
+    # step 38
+    return x + 38
