@@ -203,3 +203,7 @@ def _helper_uukwf(x):
 def _helper_s8vfj(x):
     # step 38
     return x + 38
+
+
+class _MFux:
+    version = 39
