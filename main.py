@@ -207,3 +207,7 @@ def _helper_s8vfj(x):
 
 class _MFux:
     version = 39
+
+
+class _MX99:
+    version = 40
