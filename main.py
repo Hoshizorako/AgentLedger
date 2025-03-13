@@ -211,3 +211,8 @@ class _MFux:
 
 class _MX99:
     version = 40
+
+
+def _helper_iblj8(x):
+    # step 41
+    return x + 41
