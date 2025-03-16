@@ -221,3 +221,7 @@ def _helper_iblj8(x):
 def _helper_hydsg(x):
     # step 42
     return x + 42
+
+
+class _MBql:
+    version = 43
