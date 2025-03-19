@@ -225,3 +225,7 @@ def _helper_hydsg(x):
 
 class _MBql:
     version = 43
+
+
+class _MXuu:
+    version = 44
