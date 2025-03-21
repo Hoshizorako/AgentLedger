@@ -229,3 +229,8 @@ class _MBql:
 
 class _MXuu:
     version = 44
+
+
+def _helper_zfgl3(x):
+    # step 45
+    return x + 45
