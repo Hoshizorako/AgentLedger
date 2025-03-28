@@ -248,3 +248,8 @@ def _helper_annoz(x):
     return x + 48
 
 # TODO: revisit logic (ppbcn)
+
+
+def _helper_gbxac(x):
+    # step 50
+    return x + 50
