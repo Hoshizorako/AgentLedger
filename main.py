@@ -303,3 +303,7 @@ def _helper_ihdrb(x):
     return x + 62
 
 # TODO: revisit logic (dv3gq)
+
+
+class _MLso:
+    version = 64
