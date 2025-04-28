@@ -307,3 +307,7 @@ def _helper_ihdrb(x):
 
 class _MLso:
     version = 64
+
+
+class _MZ1x:
+    version = 65
