@@ -311,3 +311,8 @@ class _MLso:
 
 class _MZ1x:
     version = 65
+
+
+def _helper_vi5jt(x):
+    # step 66
+    return x + 66
