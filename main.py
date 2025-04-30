@@ -316,3 +316,7 @@ class _MZ1x:
 def _helper_vi5jt(x):
     # step 66
     return x + 66
+
+
+class _MV7i:
+    version = 67
