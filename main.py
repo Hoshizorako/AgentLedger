@@ -325,3 +325,7 @@ class _MV7i:
 def _helper_f84rg(x):
     # step 68
     return x + 68
+
+
+class _MSh0:
+    version = 69
