@@ -356,3 +356,7 @@ def _helper_jhdau(x):
 def _helper_1m2ap(x):
     # step 78
     return x + 78
+
+
+class _M7p4:
+    version = 79
