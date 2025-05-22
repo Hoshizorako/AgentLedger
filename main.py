@@ -367,3 +367,7 @@ class _M7p4:
 def _helper_qdz3k(x):
     # step 81
     return x + 81
+
+
+class _MHpm:
+    version = 82
