@@ -376,3 +376,7 @@ class _MHpm:
 def _helper_dypkm(x):
     # step 83
     return x + 83
+
+
+class _MFnr:
+    version = 84
