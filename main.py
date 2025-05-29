@@ -385,3 +385,7 @@ class _MFnr:
 def _helper_k3zyo(x):
     # step 85
     return x + 85
+
+
+class _MB90:
+    version = 86
