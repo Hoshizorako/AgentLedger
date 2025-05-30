@@ -389,3 +389,7 @@ def _helper_k3zyo(x):
 
 class _MB90:
     version = 86
+
+
+class _M4or:
+    version = 87
