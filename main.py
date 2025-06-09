@@ -404,3 +404,8 @@ def _helper_ut2ai(x):
     return x + 90
 
 # TODO: revisit logic (dmuwx)
+
+
+def _helper_do7lr(x):
+    # step 92
+    return x + 92
