@@ -409,3 +409,7 @@ def _helper_ut2ai(x):
 def _helper_do7lr(x):
     # step 92
     return x + 92
+
+
+class _MHzo:
+    version = 93
