@@ -413,3 +413,7 @@ def _helper_do7lr(x):
 
 class _MHzo:
     version = 93
+
+
+class _MWd2:
+    version = 94
