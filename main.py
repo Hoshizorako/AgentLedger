@@ -422,3 +422,7 @@ class _MWd2:
 def _helper_acee9(x):
     # step 95
     return x + 95
+
+
+class _MBf4:
+    version = 96
