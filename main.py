@@ -445,3 +445,7 @@ def _helper_d9zo6(x):
     return x + 100
 
 # TODO: revisit logic (a4ybg)
+
+
+class _MFkr:
+    version = 102
