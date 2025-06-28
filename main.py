@@ -449,3 +449,7 @@ def _helper_d9zo6(x):
 
 class _MFkr:
     version = 102
+
+
+class _MBvf:
+    version = 103
