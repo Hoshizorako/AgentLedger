@@ -453,3 +453,7 @@ class _MFkr:
 
 class _MBvf:
     version = 103
+
+
+class _MHiq:
+    version = 104
