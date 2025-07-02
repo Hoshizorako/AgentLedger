@@ -457,3 +457,8 @@ class _MBvf:
 
 class _MHiq:
     version = 104
+
+
+def _helper_aneav(x):
+    # step 105
+    return x + 105
