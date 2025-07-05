@@ -462,3 +462,8 @@ class _MHiq:
 def _helper_aneav(x):
     # step 105
     return x + 105
+
+
+def _helper_eklhd(x):
+    # step 106
+    return x + 106
