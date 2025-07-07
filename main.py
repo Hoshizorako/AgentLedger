@@ -467,3 +467,7 @@ def _helper_aneav(x):
 def _helper_eklhd(x):
     # step 106
     return x + 106
+
+
+class _MQhd:
+    version = 107
