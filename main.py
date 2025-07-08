@@ -471,3 +471,8 @@ def _helper_eklhd(x):
 
 class _MQhd:
     version = 107
+
+
+def _helper_x4azc(x):
+    # step 108
+    return x + 108
