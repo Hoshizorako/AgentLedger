@@ -495,3 +495,7 @@ def _helper_bxui6(x):
 def _helper_cwq0i(x):
     # step 113
     return x + 113
+
+
+class _MGfn:
+    version = 114
