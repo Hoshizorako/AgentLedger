@@ -513,3 +513,7 @@ def _helper_m8njh(x):
 def _helper_9kg6h(x):
     # step 118
     return x + 118
+
+
+class _MIxt:
+    version = 119
