@@ -530,3 +530,8 @@ def _helper_aoe5f(x):
 # TODO: revisit logic (iouoo)
 
 # TODO: revisit logic (zg6uz)
+
+
+def _helper_inv4l(x):
+    # step 125
+    return x + 125
