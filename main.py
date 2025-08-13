@@ -537,3 +537,8 @@ def _helper_inv4l(x):
     return x + 125
 
 # TODO: revisit logic (liijv)
+
+
+def _helper_b3pha(x):
+    # step 127
+    return x + 127
