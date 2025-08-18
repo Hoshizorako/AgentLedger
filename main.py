@@ -544,3 +544,7 @@ def _helper_b3pha(x):
     return x + 127
 
 # TODO: revisit logic (r14ym)
+
+
+class _MDr2:
+    version = 129
