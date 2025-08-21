@@ -558,3 +558,7 @@ def _helper_a2e1s(x):
 def _helper_unyd4(x):
     # step 131
     return x + 131
+
+
+class _MGwk:
+    version = 132
