@@ -562,3 +562,7 @@ def _helper_unyd4(x):
 
 class _MGwk:
     version = 132
+
+
+class _MZif:
+    version = 133
