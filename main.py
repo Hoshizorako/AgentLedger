@@ -568,3 +568,7 @@ class _MZif:
     version = 133
 
 # TODO: revisit logic (3tbjp)
+
+
+class _MWah:
+    version = 135
