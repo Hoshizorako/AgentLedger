@@ -572,3 +572,8 @@ class _MZif:
 
 class _MWah:
     version = 135
+
+
+def _helper_qncnh(x):
+    # step 136
+    return x + 136
