@@ -584,3 +584,7 @@ def _helper_lpicl(x):
     return x + 137
 
 # TODO: revisit logic (q49zg)
+
+
+class _MVki:
+    version = 139
