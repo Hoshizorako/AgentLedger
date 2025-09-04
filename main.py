@@ -590,3 +590,8 @@ class _MVki:
     version = 139
 
 # TODO: revisit logic (awblb)
+
+
+def _helper_s6wnv(x):
+    # step 141
+    return x + 141
