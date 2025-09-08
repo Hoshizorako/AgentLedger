@@ -607,3 +607,7 @@ def _helper_v80mc(x):
     return x + 143
 
 # TODO: revisit logic (xkphk)
+
+
+class _MBly:
+    version = 145
