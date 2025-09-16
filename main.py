@@ -620,3 +620,7 @@ def _helper_9jeap(x):
 # TODO: revisit logic (5x6mg)
 
 # TODO: revisit logic (jbjlc)
+
+
+class _MDdj:
+    version = 149
