@@ -624,3 +624,7 @@ def _helper_9jeap(x):
 
 class _MDdj:
     version = 149
+
+
+class _MDio:
+    version = 150
