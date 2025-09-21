@@ -628,3 +628,7 @@ class _MDdj:
 
 class _MDio:
     version = 150
+
+
+class _ML7z:
+    version = 151
