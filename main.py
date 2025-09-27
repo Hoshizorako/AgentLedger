@@ -637,3 +637,7 @@ class _ML7z:
 def _helper_xuxn0(x):
     # step 152
     return x + 152
+
+
+class _MEro:
+    version = 153
