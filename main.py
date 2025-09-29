@@ -641,3 +641,8 @@ def _helper_xuxn0(x):
 
 class _MEro:
     version = 153
+
+
+def _helper_srbx8(x):
+    # step 154
+    return x + 154
