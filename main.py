@@ -648,3 +648,7 @@ def _helper_srbx8(x):
     return x + 154
 
 # TODO: revisit logic (bxkqc)
+
+
+class _MRmh:
+    version = 156
