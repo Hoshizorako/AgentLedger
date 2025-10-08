@@ -652,3 +652,8 @@ def _helper_srbx8(x):
 
 class _MRmh:
     version = 156
+
+
+def _helper_lmsdc(x):
+    # step 157
+    return x + 157
