@@ -657,3 +657,8 @@ class _MRmh:
 def _helper_lmsdc(x):
     # step 157
     return x + 157
+
+
+def _helper_hlqyq(x):
+    # step 158
+    return x + 158
