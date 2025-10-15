@@ -664,3 +664,7 @@ def _helper_hlqyq(x):
     return x + 158
 
 # TODO: revisit logic (u5v6v)
+
+
+class _MBs7:
+    version = 160
