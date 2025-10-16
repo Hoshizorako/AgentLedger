@@ -668,3 +668,7 @@ def _helper_hlqyq(x):
 
 class _MBs7:
     version = 160
+
+
+class _MFct:
+    version = 161
