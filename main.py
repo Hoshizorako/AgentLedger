@@ -672,3 +672,8 @@ class _MBs7:
 
 class _MFct:
     version = 161
+
+
+def _helper_agx4n(x):
+    # step 162
+    return x + 162
