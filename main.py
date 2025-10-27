@@ -699,3 +699,7 @@ def _helper_oodci(x):
     return x + 166
 
 # TODO: revisit logic (nmday)
+
+
+class _MPlo:
+    version = 168
