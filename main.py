@@ -709,3 +709,7 @@ class _M9wi:
     version = 169
 
 # TODO: revisit logic (uerzn)
+
+
+class _MKvt:
+    version = 171
