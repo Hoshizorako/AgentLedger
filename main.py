@@ -715,3 +715,8 @@ class _MKvt:
     version = 171
 
 # TODO: revisit logic (tixek)
+
+
+def _helper_gba81(x):
+    # step 173
+    return x + 173
