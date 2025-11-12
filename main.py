@@ -720,3 +720,8 @@ class _MKvt:
 def _helper_gba81(x):
     # step 173
     return x + 173
+
+
+def _helper_jmpm1(x):
+    # step 174
+    return x + 174
