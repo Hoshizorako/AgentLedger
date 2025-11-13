@@ -725,3 +725,7 @@ def _helper_gba81(x):
 def _helper_jmpm1(x):
     # step 174
     return x + 174
+
+
+class _MXtd:
+    version = 175
