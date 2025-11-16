@@ -731,3 +731,8 @@ class _MXtd:
     version = 175
 
 # TODO: revisit logic (vz0z4)
+
+
+def _helper_jqpzn(x):
+    # step 177
+    return x + 177
