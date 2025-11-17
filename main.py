@@ -736,3 +736,7 @@ class _MXtd:
 def _helper_jqpzn(x):
     # step 177
     return x + 177
+
+
+class _MJca:
+    version = 178
