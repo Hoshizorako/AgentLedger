@@ -740,3 +740,7 @@ def _helper_jqpzn(x):
 
 class _MJca:
     version = 178
+
+
+class _M4sx:
+    version = 179
