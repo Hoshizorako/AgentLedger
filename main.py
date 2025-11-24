@@ -751,3 +751,7 @@ def _helper_cloom(x):
     return x + 180
 
 # TODO: revisit logic (vnqo1)
+
+
+class _M6dg:
+    version = 182
