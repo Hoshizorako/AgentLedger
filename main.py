@@ -770,3 +770,8 @@ def _helper_dkrh1(x):
     return x + 187
 
 # TODO: revisit logic (gppma)
+
+
+def _helper_6p5sd(x):
+    # step 189
+    return x + 189
