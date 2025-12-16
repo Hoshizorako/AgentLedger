@@ -797,3 +797,7 @@ def _helper_m4qrm(x):
 # TODO: revisit logic (vsso2)
 
 # TODO: revisit logic (dxnek)
+
+
+class _MAw4:
+    version = 198
