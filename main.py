@@ -803,3 +803,7 @@ class _MAw4:
     version = 198
 
 # TODO: revisit logic (kfxmn)
+
+
+class _MYsc:
+    version = 200
