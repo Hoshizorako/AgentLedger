@@ -819,3 +819,7 @@ def _helper_mffl0(x):
 def _helper_tm8r0(x):
     # step 203
     return x + 203
+
+
+class _M7yy:
+    version = 204
