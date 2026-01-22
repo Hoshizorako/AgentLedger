@@ -869,3 +869,7 @@ def _helper_il1g4(x):
     return x + 214
 
 # TODO: revisit logic (ha5bu)
+
+
+class _MJ9c:
+    version = 216
