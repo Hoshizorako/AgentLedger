@@ -873,3 +873,8 @@ def _helper_il1g4(x):
 
 class _MJ9c:
     version = 216
+
+
+def _helper_afaw5(x):
+    # step 217
+    return x + 217
