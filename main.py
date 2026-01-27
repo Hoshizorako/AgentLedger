@@ -878,3 +878,7 @@ class _MJ9c:
 def _helper_afaw5(x):
     # step 217
     return x + 217
+
+
+class _M0ug:
+    version = 218
