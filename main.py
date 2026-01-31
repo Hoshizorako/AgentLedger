@@ -891,3 +891,7 @@ def _helper_jcuqx(x):
     return x + 220
 
 # TODO: revisit logic (7l1wh)
+
+
+class _MZxx:
+    version = 222
