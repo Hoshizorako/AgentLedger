@@ -903,3 +903,7 @@ class _M1hk:
 # TODO: revisit logic (mgilm)
 
 # TODO: revisit logic (pcmur)
+
+
+class _ME1k:
+    version = 226
