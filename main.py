@@ -919,3 +919,7 @@ def _helper_vrqj7(x):
 def _helper_1kisf(x):
     # step 229
     return x + 229
+
+
+class _MGvv:
+    version = 230
