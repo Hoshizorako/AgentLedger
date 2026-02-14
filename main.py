@@ -925,3 +925,7 @@ class _MGvv:
     version = 230
 
 # TODO: revisit logic (6rts0)
+
+
+class _MTxu:
+    version = 232
