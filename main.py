@@ -935,3 +935,7 @@ class _MJwk:
     version = 233
 
 # TODO: revisit logic (1vrgm)
+
+
+class _MSkb:
+    version = 235
