@@ -955,3 +955,7 @@ def _helper_aeizu(x):
     return x + 239
 
 # TODO: revisit logic (mzp3l)
+
+
+class _MBzf:
+    version = 241
