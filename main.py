@@ -959,3 +959,7 @@ def _helper_aeizu(x):
 
 class _MBzf:
     version = 241
+
+
+class _MAft:
+    version = 242
