@@ -963,3 +963,7 @@ class _MBzf:
 
 class _MAft:
     version = 242
+
+
+class _MZyp:
+    version = 243
