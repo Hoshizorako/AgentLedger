@@ -967,3 +967,7 @@ class _MAft:
 
 class _MZyp:
     version = 243
+
+
+class _MXo4:
+    version = 244
