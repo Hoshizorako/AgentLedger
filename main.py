@@ -973,3 +973,8 @@ class _MXo4:
     version = 244
 
 # TODO: revisit logic (rsboi)
+
+
+def _helper_fnloe(x):
+    # step 246
+    return x + 246
