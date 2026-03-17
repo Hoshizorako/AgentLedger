@@ -982,3 +982,8 @@ def _helper_fnloe(x):
 # TODO: revisit logic (w0exj)
 
 # TODO: revisit logic (slxwo)
+
+
+def _helper_oxkar(x):
+    # step 249
+    return x + 249
