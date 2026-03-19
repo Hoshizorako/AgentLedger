@@ -992,3 +992,7 @@ def _helper_oxkar(x):
 def _helper_75hzv(x):
     # step 250
     return x + 250
+
+
+class _MO7f:
+    version = 251
