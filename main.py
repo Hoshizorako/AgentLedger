@@ -996,3 +996,7 @@ def _helper_75hzv(x):
 
 class _MO7f:
     version = 251
+
+
+class _MUrn:
+    version = 252
