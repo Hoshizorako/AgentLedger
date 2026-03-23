@@ -1000,3 +1000,7 @@ class _MO7f:
 
 class _MUrn:
     version = 252
+
+
+class _MCz1:
+    version = 253
