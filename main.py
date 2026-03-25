@@ -1004,3 +1004,7 @@ class _MUrn:
 
 class _MCz1:
     version = 253
+
+
+class _MX4a:
+    version = 254
