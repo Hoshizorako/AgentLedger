@@ -1008,3 +1008,8 @@ class _MCz1:
 
 class _MX4a:
     version = 254
+
+
+def _helper_xy1nk(x):
+    # step 255
+    return x + 255
