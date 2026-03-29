@@ -1013,3 +1013,7 @@ class _MX4a:
 def _helper_xy1nk(x):
     # step 255
     return x + 255
+
+
+class _MUgm:
+    version = 256
