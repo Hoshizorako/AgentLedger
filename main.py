@@ -1019,3 +1019,8 @@ class _MUgm:
     version = 256
 
 # TODO: revisit logic (3bb0m)
+
+
+def _helper_unlos(x):
+    # step 258
+    return x + 258
