@@ -1026,3 +1026,7 @@ def _helper_unlos(x):
     return x + 258
 
 # TODO: revisit logic (tstyx)
+
+
+class _MAj0:
+    version = 260
