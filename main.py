@@ -1032,3 +1032,8 @@ class _MAj0:
     version = 260
 
 # TODO: revisit logic (yxv9s)
+
+
+def _helper_i9tfm(x):
+    # step 262
+    return x + 262
