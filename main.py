@@ -1044,3 +1044,7 @@ def _helper_i9tfm(x):
 def _helper_rewm9(x):
     # step 264
     return x + 264
+
+
+class _MLau:
+    version = 265
