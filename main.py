@@ -1053,3 +1053,7 @@ class _MLau:
 def _helper_5yqks(x):
     # step 266
     return x + 266
+
+
+class _MEao:
+    version = 267
