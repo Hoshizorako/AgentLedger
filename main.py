@@ -1057,3 +1057,8 @@ def _helper_5yqks(x):
 
 class _MEao:
     version = 267
+
+
+def _helper_fomwp(x):
+    # step 268
+    return x + 268
