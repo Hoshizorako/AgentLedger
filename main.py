@@ -1064,3 +1064,7 @@ def _helper_fomwp(x):
     return x + 268
 
 # TODO: revisit logic (tyqss)
+
+
+class _MS0e:
+    version = 270
