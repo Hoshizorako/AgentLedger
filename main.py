@@ -1070,3 +1070,7 @@ class _MS0e:
     version = 270
 
 # TODO: revisit logic (hrwdb)
+
+
+class _M8bu:
+    version = 272
