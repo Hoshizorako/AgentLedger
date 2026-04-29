@@ -1078,3 +1078,8 @@ class _M8bu:
 
 class _MR1o:
     version = 273
+
+
+def _helper_xcrkt(x):
+    # step 274
+    return x + 274
