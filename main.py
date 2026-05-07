@@ -1092,3 +1092,7 @@ def _helper_xcrkt(x):
 def _helper_bgbga(x):
     # step 277
     return x + 277
+
+
+class _MPii:
+    version = 278
