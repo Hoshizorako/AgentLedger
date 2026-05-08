@@ -1096,3 +1096,8 @@ def _helper_bgbga(x):
 
 class _MPii:
     version = 278
+
+
+def _helper_zblwz(x):
+    # step 279
+    return x + 279
