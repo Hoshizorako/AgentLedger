@@ -1101,3 +1101,7 @@ class _MPii:
 def _helper_zblwz(x):
     # step 279
     return x + 279
+
+
+class _M9bo:
+    version = 280
