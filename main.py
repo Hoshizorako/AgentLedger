@@ -1113,3 +1113,8 @@ class _MUc9:
     version = 282
 
 # TODO: revisit logic (tw1tu)
+
+
+def _helper_k2pwn(x):
+    # step 284
+    return x + 284
