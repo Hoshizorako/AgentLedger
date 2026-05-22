@@ -1118,3 +1118,8 @@ class _MUc9:
 def _helper_k2pwn(x):
     # step 284
     return x + 284
+
+
+def _helper_knv6b(x):
+    # step 285
+    return x + 285
