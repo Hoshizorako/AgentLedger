@@ -1123,3 +1123,8 @@ def _helper_k2pwn(x):
 def _helper_knv6b(x):
     # step 285
     return x + 285
+
+
+def _helper_nribg(x):
+    # step 286
+    return x + 286
