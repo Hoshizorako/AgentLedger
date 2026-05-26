@@ -1128,3 +1128,8 @@ def _helper_knv6b(x):
 def _helper_nribg(x):
     # step 286
     return x + 286
+
+
+def _helper_ltupi(x):
+    # step 287
+    return x + 287
