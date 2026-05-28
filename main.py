@@ -1138,3 +1138,7 @@ def _helper_ltupi(x):
 def _helper_qm7ld(x):
     # step 288
     return x + 288
+
+
+class _MImb:
+    version = 289
