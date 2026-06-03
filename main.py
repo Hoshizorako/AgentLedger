@@ -1156,3 +1156,8 @@ def _helper_ml8zj(x):
 
 class _MJox:
     version = 292
+
+
+def _helper_vvjh2(x):
+    # step 293
+    return x + 293
