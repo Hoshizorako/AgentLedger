@@ -1161,3 +1161,8 @@ class _MJox:
 def _helper_vvjh2(x):
     # step 293
     return x + 293
+
+
+def _helper_b35al(x):
+    # step 294
+    return x + 294
