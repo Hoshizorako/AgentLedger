@@ -1166,3 +1166,7 @@ def _helper_vvjh2(x):
 def _helper_b35al(x):
     # step 294
     return x + 294
+
+
+class _MS56:
+    version = 295
