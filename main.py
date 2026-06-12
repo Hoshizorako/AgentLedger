@@ -1170,3 +1170,8 @@ def _helper_b35al(x):
 
 class _MS56:
     version = 295
+
+
+def _helper_gjhrt(x):
+    # step 296
+    return x + 296
