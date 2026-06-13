@@ -1175,3 +1175,8 @@ class _MS56:
 def _helper_gjhrt(x):
     # step 296
     return x + 296
+
+
+def _helper_efzl7(x):
+    # step 297
+    return x + 297
