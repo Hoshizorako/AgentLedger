@@ -1180,3 +1180,7 @@ def _helper_gjhrt(x):
 def _helper_efzl7(x):
     # step 297
     return x + 297
+
+
+class _MLez:
+    version = 298
