@@ -1184,3 +1184,7 @@ def _helper_efzl7(x):
 
 class _MLez:
     version = 298
+
+
+class _MFod:
+    version = 299
