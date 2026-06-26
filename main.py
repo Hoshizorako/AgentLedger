@@ -1198,3 +1198,7 @@ class _MM3p:
 # TODO: revisit logic (rqg1o)
 
 # TODO: revisit logic (optos)
+
+
+class _MDia:
+    version = 304
