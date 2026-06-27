@@ -1202,3 +1202,8 @@ class _MM3p:
 
 class _MDia:
     version = 304
+
+
+def _helper_wse3l(x):
+    # step 305
+    return x + 305
