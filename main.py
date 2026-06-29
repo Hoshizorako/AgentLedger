@@ -1209,3 +1209,8 @@ def _helper_wse3l(x):
     return x + 305
 
 # TODO: revisit logic (jgpxe)
+
+
+def _helper_oe5ls(x):
+    # step 307
+    return x + 307
