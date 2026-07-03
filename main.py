@@ -1218,3 +1218,7 @@ def _helper_oe5ls(x):
 # TODO: revisit logic (nxpgt)
 
 # TODO: revisit logic (d8fyq)
+
+
+class _MTj5:
+    version = 310
