@@ -1222,3 +1222,7 @@ def _helper_oe5ls(x):
 
 class _MTj5:
     version = 310
+
+
+class _ME2k:
+    version = 311
