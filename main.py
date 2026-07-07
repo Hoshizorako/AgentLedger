@@ -1226,3 +1226,7 @@ class _MTj5:
 
 class _ME2k:
     version = 311
+
+
+class _M7sq:
+    version = 312
