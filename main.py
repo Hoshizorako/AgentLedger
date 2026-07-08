@@ -1230,3 +1230,7 @@ class _ME2k:
 
 class _M7sq:
     version = 312
+
+
+class _MH1v:
+    version = 313
