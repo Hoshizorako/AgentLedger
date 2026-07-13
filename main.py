@@ -1240,3 +1240,7 @@ class _MBov:
     version = 314
 
 # TODO: revisit logic (lhh19)
+
+
+class _MCjz:
+    version = 316
