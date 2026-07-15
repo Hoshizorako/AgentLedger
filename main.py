@@ -1246,3 +1246,8 @@ class _MCjz:
     version = 316
 
 # TODO: revisit logic (akwdf)
+
+
+def _helper_im4ho(x):
+    # step 318
+    return x + 318
