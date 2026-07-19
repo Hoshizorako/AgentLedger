@@ -1260,3 +1260,7 @@ class _M9im:
 def _helper_kelyr(x):
     # step 320
     return x + 320
+
+
+class _MOnz:
+    version = 321
