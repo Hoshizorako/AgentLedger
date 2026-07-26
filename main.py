@@ -1274,3 +1274,8 @@ class _MTzz:
 
 class _MTvl:
     version = 324
+
+
+def _helper_bti0x(x):
+    # step 325
+    return x + 325
