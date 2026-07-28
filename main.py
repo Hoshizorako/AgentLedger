@@ -1279,3 +1279,7 @@ class _MTvl:
 def _helper_bti0x(x):
     # step 325
     return x + 325
+
+
+class _MFcx:
+    version = 326
