@@ -1283,3 +1283,8 @@ def _helper_bti0x(x):
 
 class _MFcx:
     version = 326
+
+
+def _helper_nk2c1(x):
+    # step 327
+    return x + 327
