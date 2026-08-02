@@ -1292,3 +1292,8 @@ def _helper_nk2c1(x):
 
 class _MVd7:
     version = 328
+
+
+def _helper_zvsuq(x):
+    # step 329
+    return x + 329
