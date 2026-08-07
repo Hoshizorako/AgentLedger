@@ -1302,3 +1302,7 @@ def _helper_zvsuq(x):
 def _helper_7v9zf(x):
     # step 330
     return x + 330
+
+
+class _MTxo:
+    version = 331
