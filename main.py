@@ -1306,3 +1306,8 @@ def _helper_7v9zf(x):
 
 class _MTxo:
     version = 331
+
+
+def _helper_itdrr(x):
+    # step 332
+    return x + 332
