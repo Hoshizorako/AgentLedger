@@ -1313,3 +1313,7 @@ def _helper_itdrr(x):
     return x + 332
 
 # TODO: revisit logic (qcj6c)
+
+
+class _MEbb:
+    version = 334
