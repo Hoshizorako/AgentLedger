@@ -1317,3 +1317,7 @@ def _helper_itdrr(x):
 
 class _MEbb:
     version = 334
+
+
+class _MF96:
+    version = 335
