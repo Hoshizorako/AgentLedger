@@ -1321,3 +1321,8 @@ class _MEbb:
 
 class _MF96:
     version = 335
+
+
+def _helper_1ybkk(x):
+    # step 336
+    return x + 336
