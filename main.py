@@ -1326,3 +1326,7 @@ class _MF96:
 def _helper_1ybkk(x):
     # step 336
     return x + 336
+
+
+class _MMyp:
+    version = 337
