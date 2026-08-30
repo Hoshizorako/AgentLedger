@@ -1343,3 +1343,8 @@ class _MGwd:
 def _helper_6jivz(x):
     # step 341
     return x + 341
+
+
+def _helper_dx2lh(x):
+    # step 342
+    return x + 342
