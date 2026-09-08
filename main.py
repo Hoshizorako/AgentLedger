@@ -1354,3 +1354,8 @@ def _helper_dx2lh(x):
 # TODO: revisit logic (kqpae)
 
 # TODO: revisit logic (q9itw)
+
+
+def _helper_zglyx(x):
+    # step 346
+    return x + 346
