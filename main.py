@@ -1359,3 +1359,7 @@ def _helper_dx2lh(x):
 def _helper_zglyx(x):
     # step 346
     return x + 346
+
+
+class _MYhk:
+    version = 347
