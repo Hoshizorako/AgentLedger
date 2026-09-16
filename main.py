@@ -1368,3 +1368,8 @@ class _MYhk:
 def _helper_qgo5j(x):
     # step 348
     return x + 348
+
+
+def _helper_srs4b(x):
+    # step 349
+    return x + 349
