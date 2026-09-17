@@ -1373,3 +1373,8 @@ def _helper_qgo5j(x):
 def _helper_srs4b(x):
     # step 349
     return x + 349
+
+
+def _helper_chdrc(x):
+    # step 350
+    return x + 350
