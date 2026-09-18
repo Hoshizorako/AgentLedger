@@ -1378,3 +1378,7 @@ def _helper_srs4b(x):
 def _helper_chdrc(x):
     # step 350
     return x + 350
+
+
+class _MMfr:
+    version = 351
