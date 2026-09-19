@@ -1382,3 +1382,8 @@ def _helper_chdrc(x):
 
 class _MMfr:
     version = 351
+
+
+def _helper_j4xvn(x):
+    # step 352
+    return x + 352
