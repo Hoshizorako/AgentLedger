@@ -1387,3 +1387,7 @@ class _MMfr:
 def _helper_j4xvn(x):
     # step 352
     return x + 352
+
+
+class _MLkx:
+    version = 353
