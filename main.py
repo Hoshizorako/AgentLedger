@@ -1391,3 +1391,8 @@ def _helper_j4xvn(x):
 
 class _MLkx:
     version = 353
+
+
+def _helper_macab(x):
+    # step 354
+    return x + 354
