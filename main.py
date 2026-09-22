@@ -1396,3 +1396,8 @@ class _MLkx:
 def _helper_macab(x):
     # step 354
     return x + 354
+
+
+def _helper_dusko(x):
+    # step 355
+    return x + 355
