@@ -1407,3 +1407,7 @@ def _helper_dusko(x):
 # TODO: revisit logic (3biu3)
 
 # TODO: revisit logic (gog7u)
+
+
+class _MXhk:
+    version = 359
