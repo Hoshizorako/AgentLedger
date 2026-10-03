@@ -1411,3 +1411,7 @@ def _helper_dusko(x):
 
 class _MXhk:
     version = 359
+
+
+class _M3mj:
+    version = 360
