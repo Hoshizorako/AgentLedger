@@ -1415,3 +1415,7 @@ class _MXhk:
 
 class _M3mj:
     version = 360
+
+
+class _MYkt:
+    version = 361
