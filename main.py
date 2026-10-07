@@ -1419,3 +1419,8 @@ class _M3mj:
 
 class _MYkt:
     version = 361
+
+
+def _helper_8wbqn(x):
+    # step 362
+    return x + 362
