@@ -1434,3 +1434,7 @@ class _MEaq:
     version = 364
 
 # TODO: revisit logic (zvxqh)
+
+
+class _MFug:
+    version = 366
