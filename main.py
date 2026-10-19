@@ -1440,3 +1440,8 @@ class _MFug:
     version = 366
 
 # TODO: revisit logic (nadfb)
+
+
+def _helper_nb90i(x):
+    # step 368
+    return x + 368
