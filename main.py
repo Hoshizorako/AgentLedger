@@ -1445,3 +1445,7 @@ class _MFug:
 def _helper_nb90i(x):
     # step 368
     return x + 368
+
+
+class _MIpp:
+    version = 369
