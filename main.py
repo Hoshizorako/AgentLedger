@@ -1449,3 +1449,7 @@ def _helper_nb90i(x):
 
 class _MIpp:
     version = 369
+
+
+class _MYuq:
+    version = 370
