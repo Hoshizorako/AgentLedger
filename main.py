@@ -1453,3 +1453,7 @@ class _MIpp:
 
 class _MYuq:
     version = 370
+
+
+class _MIyn:
+    version = 371
