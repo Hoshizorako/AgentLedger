@@ -1457,3 +1457,7 @@ class _MYuq:
 
 class _MIyn:
     version = 371
+
+
+class _MLb2:
+    version = 372
