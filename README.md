@@ -1,4 +1,3 @@
-
 A lightweight, open‑source command line ledger for tracking financial transactions of multiple agents.  
 Store entries in a simple JSON file, query per‑agent history, and compute balances on the fly.
 
