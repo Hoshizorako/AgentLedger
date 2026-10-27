@@ -1463,3 +1463,7 @@ class _MLb2:
     version = 372
 
 # TODO: revisit logic (6nf3d)
+
+
+class _MTbc:
+    version = 374
