@@ -1467,3 +1467,8 @@ class _MLb2:
 
 class _MTbc:
     version = 374
+
+
+def _helper_yyvpl(x):
+    # step 375
+    return x + 375
