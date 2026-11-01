@@ -1474,3 +1474,8 @@ def _helper_yyvpl(x):
     return x + 375
 
 # TODO: revisit logic (cgefa)
+
+
+def _helper_zuymc(x):
+    # step 377
+    return x + 377
