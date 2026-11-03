@@ -1484,3 +1484,7 @@ def _helper_zuymc(x):
 def _helper_31ql5(x):
     # step 378
     return x + 378
+
+
+class _MNq7:
+    version = 379
