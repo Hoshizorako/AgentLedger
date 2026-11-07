@@ -1490,3 +1490,7 @@ class _MNq7:
     version = 379
 
 # TODO: revisit logic (omwjb)
+
+
+class _MP1q:
+    version = 381
