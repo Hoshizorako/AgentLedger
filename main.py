@@ -1506,3 +1506,7 @@ class _MHzm:
     version = 385
 
 # TODO: revisit logic (ua474)
+
+
+class _MEwp:
+    version = 387
