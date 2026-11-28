@@ -1512,3 +1512,7 @@ class _MEwp:
     version = 387
 
 # TODO: revisit logic (kmr5x)
+
+
+class _M6u5:
+    version = 389
