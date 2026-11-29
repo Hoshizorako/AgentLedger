@@ -1516,3 +1516,8 @@ class _MEwp:
 
 class _M6u5:
     version = 389
+
+
+def _helper_ua8ho(x):
+    # step 390
+    return x + 390
