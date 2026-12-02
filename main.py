@@ -1528,3 +1528,7 @@ def _helper_j7cf8(x):
     return x + 391
 
 # TODO: revisit logic (7mcai)
+
+
+class _MKa9:
+    version = 393
